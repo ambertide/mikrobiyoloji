@@ -1,30 +1,25 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
- <channel>
-   <title>Kisimlars on Mikrobiyoloji Ders Notları</title>
-   <link>http://example.org/kisimlar/</link>
-   <description>Recent content in Kisimlars on Mikrobiyoloji Ders Notları</description>
-   <generator>Hugo -- gohugo.io</generator>
-   <language>tr-tr</language>
-   
-       <atom:link href="http://example.org/kisimlar/index.xml" rel="self" type="application/rss+xml" />
-   
-   
-     <item>
-       <title></title>
-       <link>http://example.org/kisimlar/editorun_notu/</link>
-       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-       
-       <guid>http://example.org/kisimlar/editorun_notu/</guid>
-       <description>&lt;h1 id=&#34;editörün-notu&#34;&gt;Editörün Notu&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Geçmişten birşeyler öğrenilebileceği fikrine karşı bir direniş var, ancak geçmiş söyleyecek yığınla şeyi olan insanlarla dolu bir dolap gibidir; kapısı zaman zaman açılmalıdır. - &lt;em&gt;J. Lepore&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Sağlık Hizmetleri Meslek Yüksek Okulları İçin Mikrobiyoloji Ders Notları kitabını babam yazmış, kitabı ananemin evindeki depoda bana gösterdi, hem OCR teknolojisini denemek hem de sitelerle ilgili tecrübe edinmek için bu şekilde bir proje yapmak aklıma geldiğinde de geri durmadım.&lt;/p&gt;
-&lt;p&gt;1995&amp;rsquo;den kalan bu kadar eski bir kitap önemsiz görünebilir, ancak unutmamamız gereken bir durum var, tıp dünyası da normal dünyamız gibi zamanla berabar (hatta belki normal dünyadan daha fazla ve hızlı) değişiyor, bunun anlamlarından biri de bu kitabın geçmişe açılan bir pencere olması, belki daha &lt;em&gt;önemli&lt;/em&gt; kitaplar kadar büyük bir pencere değil, ancak gene de bir pencere.&lt;/p&gt;
-&lt;p&gt;Bu kitabı okurken unutmamanız gereken bir nokta, zamanla değişen anlayışlar, yazımlar ve yaklaşımlar, eğer tıbbi bir alanda okuyorsanız, bu kitapta bir çok yanlış bilgi olma ihtimaline karşı hazırlık olun.&lt;/p&gt;
-</description>
-     </item>
-   
- </channel>
+  <channel>
+    <title>Kisimlars on Mikrobiyoloji Ders Notları</title>
+    <link>http://example.org/kisimlar/</link>
+    <description>Recent content in Kisimlars on Mikrobiyoloji Ders Notları</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    
+	<atom:link href="http://example.org/kisimlar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/kisimlar/editorun_notu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/kisimlar/editorun_notu/</guid>
+      <description>Editörün Notu  Geçmişten birşeyler öğrenilebileceği fikrine karşı bir direniş var, ancak geçmiş söyleyecek yığınla şeyi olan insanlarla dolu bir dolap gibidir; kapısı zaman zaman açılmalıdır. - J. Lepore
+ Sağlık Hizmetleri Meslek Yüksek Okulları İçin Mikrobiyoloji Ders Notları kitabını babam yazmış, kitabı ananemin evindeki depoda bana gösterdi, hem OCR teknolojisini denemek hem de sitelerle ilgili tecrübe edinmek için bu şekilde bir proje yapmak aklıma geldiğinde de geri durmadım.
+1995&amp;rsquo;den kalan bu kadar eski bir kitap önemsiz görünebilir, ancak unutmamamız gereken bir durum var, tıp dünyası da normal dünyamız gibi zamanla berabar (hatta belki normal dünyadan daha fazla ve hızlı) değişiyor, bunun anlamlarından biri de bu kitabın geçmişe açılan bir pencere olması, belki daha önemli kitaplar kadar büyük bir pencere değil, ancak gene de bir pencere.</description>
+    </item>
+    
+  </channel>
 </rss>
